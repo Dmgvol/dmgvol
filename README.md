@@ -87,12 +87,6 @@ Software Developer by day. UnrealEngine 4 modder by night.
         </picture>
     </a></p>
 
+
 ### Support me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E0WSKTK)
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dmgvol"><img src="https://github-readme-stats.vercel.app/api?username=dmgvol&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dmgvol's GitHub stats" /></a>
-
-
