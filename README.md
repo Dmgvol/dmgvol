@@ -1,15 +1,17 @@
 Hi 👋 My name is Dmgvol
 =======================
 
-Software Developer & UE4 Modder
+Software Developer & UE4/5 Modder
 -------------------------------
 
-Software Developer by day. UnrealEngine 4 modder by night.
+Software Developer by day. UnrealEngine modder by night.
 
 * 🖥️ See my portfolio at [NexusMods](http://https://www.nexusmods.com/users/73248698), [Ghostrunner Mods](https://github.com/dmgvol/ghostrunner-mods)
-* 🤝 I'm open to collaborating on UE4 modding (including commissioned work).
+* 🛠️ My UnrealEngine guides are at [UE_Modding](https://github.com/Dmgvol/UE_Modding).
+* 🤝 I'm open to collaborating on UE modding (Check out my Ko-fi link for commissioned work).
 * ⚡ I've made additional tools and guides for UE4 modding.
 
+* ⭐ Stars Across Repositories: ![Total Stars](https://img.shields.io/github/stars/Dmgvol?style=social&color=%23f8bbd0)
 
 ### Skills
 <p align="left">
