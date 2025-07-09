@@ -6,7 +6,7 @@ Software Developer & UE4/5 Modder
 
 Software Developer by day. UnrealEngine modder by night.
 
-* 🖥️ See my portfolio at [NexusMods](http://https://www.nexusmods.com/users/73248698), [Ghostrunner Mods](https://github.com/dmgvol/ghostrunner-mods)
+* 🖥️ See my portfolio at [NexusMods](https://next.nexusmods.com/profile/dmgvol), [Ghostrunner Mods](https://github.com/dmgvol/ghostrunner-mods)
 * 🛠️ My UnrealEngine guides are at [UE_Modding](https://github.com/Dmgvol/UE_Modding).
 * 🤝 I'm open to collaborating on UE modding (Check out my Ko-fi link for commissioned work).
 * ⚡ I've made additional tools and guides for UE4 modding.
